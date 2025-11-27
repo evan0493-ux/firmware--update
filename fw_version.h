@@ -1,1 +1,1 @@
-#define BLYNK_FIRMWARE_VERSION "1.1.2"
+#define FW_VERSION "1.1.2"
